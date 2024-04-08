@@ -1,0 +1,140 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "Frankenstein",
+      "year": "1824",
+      "genre": "Horror",
+      "author": "Mary Shelley",
+      "like": false
+    },
+    {
+      "id": "2",
+      "name": "The Picture of Dorian Gray",
+      "year": "1891",
+      "genre": "Classics",
+      "author": "Oscar Wilde",
+      "like": true
+    },
+    {
+      "id": "3",
+      "name": "The Hobbit",
+      "year": "1937",
+      "genre": "Fantasy",
+      "author": "J.R.R. Tolkien",
+      "like": false
+    },
+    {
+      "id": "4",
+      "name": "Wuthering Heights",
+      "year": "1847",
+      "genre": "Classics",
+      "author": "Emily Bronte",
+      "like": false
+    },
+    {
+      "id": "5",
+      "name": "Dr. Jekyll and Mr. Hyde",
+      "year": "1886",
+      "genre": "Horror",
+      "author": "Robert Louis Stevenson",
+      "like": false
+    },
+    {
+      "id": "6",
+      "name": "The Shining",
+      "year": "1977",
+      "genre": "Horror",
+      "author": "Stephen King",
+      "like": false
+    },
+    {
+      "id": "7",
+      "name": "Pride and Prejudice",
+      "year": "1813",
+      "genre": "Classics",
+      "author": "Jane Austen",
+      "like": false
+    },
+    {
+      "id": "8",
+      "name": "The Tell-Tale Heart",
+      "year": "1845",
+      "genre": "Horror",
+      "author": "Edgar Allan Poe",
+      "like": false
+    },
+    {
+      "id": "9",
+      "name": "The Adventures of Sherlock Holmes",
+      "year": "1892",
+      "genre": "Classics",
+      "author": "Arthur Conan Doyle",
+      "like": false
+    },
+    {
+      "id": "10",
+      "name": "Alice's Adventures in Wonderland",
+      "year": "1865",
+      "genre": "Fantasy",
+      "author": "Lewis Carroll",
+      "like": false
+    },
+    {
+      "id": "11",
+      "name": "Fahrenheit 451",
+      "year": "1953",
+      "genre": "Classics",
+      "author": "Ray Bradbury",
+      "like": true
+    },
+    {
+      "id": "12",
+      "name": "Interview with the Vampire",
+      "year": "1976",
+      "genre": "Horror",
+      "author": "Anne Rice",
+      "like": false
+    },
+    {
+      "id": "13",
+      "name": "The Great Gatsby",
+      "year": "1925",
+      "genre": "Classics",
+      "author": "F. Scott Fitzgerald",
+      "like": false
+    },
+    {
+      "id": "14",
+      "name": "The Lord of the Rings",
+      "year": "1954",
+      "genre": "Fantasy",
+      "author": "J.R.R. Tolkien",
+      "like": true
+    },
+    {
+      "id": "15",
+      "name": "Rebecca",
+      "year": "1938",
+      "genre": "Classics",
+      "author": "Daphne du Maurier",
+      "like": false
+    },
+    {
+      "id": "16",
+      "name": "Jane Eyre",
+      "year": "1847",
+      "genre": "Classics",
+      "author": "Charlotte Bronte",
+      "like": false
+    },
+    {
+      "id": "17",
+      "name": "The Exorcist",
+      "year": "1976",
+      "genre": "Horror",
+      "author": "William Peter Blatty",
+      "like": false
+    }
+  ]
+}
